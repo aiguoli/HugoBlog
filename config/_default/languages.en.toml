@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Thawne 's blog"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Thawne"
+  image = "img/dog.jpg"
+  headline = "Keep learning."
+  bio = "A little bit about you"
+  links = [
+    { github = "https://github.com/aiguoli" },
+  ]
